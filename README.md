@@ -1249,6 +1249,7 @@ Where to discover new Python libraries.
 * [Python Testing](http://pythontesting.net)
 * [Radio Free Python](http://radiofreepython.com/)
 * [Talk Python To Me](https://talkpython.fm/)
+* [Test and Code](https://testandcode.com/)
 
 ## Twitter
 
